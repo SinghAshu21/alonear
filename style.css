@@ -1,0 +1,77 @@
+body{ 
+    margin :0;
+    padding :0;
+}
+
+.main{
+    margin: 0px;
+    padding: 0px;
+    height: 12000px;
+    background-color:#df88d86c;
+
+}
+
+.nav{
+    height: 100px;
+    background-color:purple;
+    display:flex;
+    flex-direction: row;
+
+
+}
+      
+.left{
+    margin: 0;
+    height: 100px;
+    width: 400px;
+}
+
+.logo{  
+    height: 85px;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+
+
+.wel{margin-top: 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+
+
+}
+.alonear{margin-top: 10px;
+    text-align: center;
+    font-family:'Lucida Sans';
+    font-size: 70px;
+
+}
+.one{
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+
+}
+.two{
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+
+}
+
+.insta{
+    height: 1200px;
+    margin-left: 20px;
+    
+}
+.what{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: Cambria;
+}
+.message{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family:'Lucida Sans Unicode';
+}
+
